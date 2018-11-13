@@ -1,0 +1,7 @@
+C:\Users\Altug\source\repos\walutyobceNBP\walutyobceNBP\obj\Debug\walutyobceNBP.csprojAssemblyReference.cache
+C:\Users\Altug\source\repos\walutyobceNBP\walutyobceNBP\obj\Debug\walutyobceNBP.csproj.CoreCompileInputs.cache
+C:\Users\Altug\source\repos\walutyobceNBP\walutyobceNBP\bin\Debug\walutyobceNBP.exe.config
+C:\Users\Altug\source\repos\walutyobceNBP\walutyobceNBP\bin\Debug\walutyobceNBP.exe
+C:\Users\Altug\source\repos\walutyobceNBP\walutyobceNBP\bin\Debug\walutyobceNBP.pdb
+C:\Users\Altug\source\repos\walutyobceNBP\walutyobceNBP\obj\Debug\walutyobceNBP.exe
+C:\Users\Altug\source\repos\walutyobceNBP\walutyobceNBP\obj\Debug\walutyobceNBP.pdb
